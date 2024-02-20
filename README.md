@@ -1,5 +1,5 @@
 # Sentiment-Analysis-On-Yelp-Reviews
-
+Refer Project Report for detailed documentation.
 #### Introduction
 The abundance of Yelp reviews has significantly influenced customer decision
 making, especially in the food service industry. This project delves into the intricate 
