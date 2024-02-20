@@ -20,7 +20,10 @@ experiences.
 ### Hypothesis
 The project is driven by the hypothesis that a significant relationship exists between the sentiment expressed in Yelp reviews and the star ratings assigned by users. Specifically, it is posited that reviews expressing positive sentiments will correlate with higher star ratings, while negative sentiments will correspond with lower star ratings. This hypothesis aims to explore the extent to which quantitative ratings reflect the qualitative sentiments of consumers.
 
-Null Hypothesis (H0): No significant linear relationship exists between sentiment scores and star ratings. Alternative Hypothesis (H1): A significant linear relationship exists between sentiment scores and star ratings. Spearman’s rank correlation coefficient was 0.47 with a p-value of 0.0 which negates our null hypothesis. The results suggest a significant relationship between the Rating and Compound 
+Null Hypothesis (H0): No significant linear relationship exists between sentiment scores and star ratings. 
+Alternative Hypothesis (H1): A significant linear relationship exists between sentiment scores and star ratings. 
+
+Spearman’s rank correlation coefficient was 0.47 with a p-value of 0.0 which negates our null hypothesis. The results suggest a significant relationship between the Rating and Compound 
 sentiment score of the reviews. 
 
 ### Methodology
