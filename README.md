@@ -16,8 +16,6 @@ experiences.
 ### Dataset
 https://www.yelp.com/dataset
 
-### Implementation
-
 ### Hypothesis
 The project is driven by the hypothesis that a significant relationship exists between the sentiment expressed in Yelp reviews and the star ratings assigned by users. Specifically, it is posited that reviews expressing positive sentiments will correlate with higher star ratings, while negative sentiments will correspond with lower star ratings. This hypothesis aims to explore the extent to which quantitative ratings reflect the qualitative sentiments of consumers.
 
