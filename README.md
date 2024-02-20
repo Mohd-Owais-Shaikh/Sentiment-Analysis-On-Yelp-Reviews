@@ -14,6 +14,7 @@ behavior and enhance understanding of the role of star ratings in reflecting cus
 experiences.
 
 ### Dataset
+https://www.yelp.com/dataset
 
 ### Implementation
 
@@ -27,9 +28,13 @@ Spearman’s rank correlation coefficient was 0.47 with a p-value of 0.0 which n
 sentiment score of the reviews. 
 
 ### Methodology
-The methodology involves cleaning and pre-processing the data to implement and test machine learning models like GLM, XGBoost, and gradient boosting regression on a sample of Yelp reviews to predict sentiment scores. The features are review length, rating, and review text. The predicted sentiment score was compared with the compound score obtained using VADER. Key metrics such as R-squared error, mean squared error (MSE) and mean absolute error (MAE) will be employed to assess model performance. The findings of this project are expected to offer valuable insights into consumer behavior and decision-making processes in the context of online reviews. This can translate to enhanced customer engagement and service improvement strategies for businesses. For consumers, it provides a deeper understanding of what star ratings may signify regarding actual customer experience. 
 
+The methodology involves cleaning and pre-processing the data to implement and test machine learning models like GLM, XGBoost, and gradient boosting regression on a sample of Yelp reviews to predict sentiment scores. The features are review length, rating, and review text. The predicted sentiment score was compared with the compound score obtained using VADER. Key metrics such as R-squared error, mean squared error (MSE) and mean absolute error (MAE) will be employed to assess model performance. 
+
+The findings of this project are expected to offer valuable insights into consumer behavior and decision-making processes in the context of online reviews. This can translate to enhanced customer engagement and service improvement strategies for businesses. For consumers, it provides a deeper understanding of what star ratings may signify regarding actual customer experience.
 
 ### Results
 
-Testing a Hypothesis on whether the Ratings have a relationship with the Sentiment Scores of the Reviews.
+The project successfully established a significant relationship between the sentiment expressed in Yelp reviews and star ratings, thus validating the hypothesis. The sentiment analysis, using VADER, revealed a nuanced understanding of customer feedback, while the machine learning models effectively predicted sentiment scores using user reviews and ratings as features. The models demonstrated varying degrees of performance. XG Boost outperformed Gradient Boost and GLM.
+
+The quantitative relationship between sentiment score and ratings varies across regions, cultures, and sectors (Wan, 2022). The business strategies need to be tailored specifically by analyzing the sentiment of the reviews of the business that is in question. Our findings underscore the complexity of consumer opinions and the efficacy of combining qualitative and quantitative data for a comprehensive understanding. The study contributes to the broader understanding of customer sentiment in online reviews and can assist businesses in leveraging this information for improved customer engagement and service strategies. 
